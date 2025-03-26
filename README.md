@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/129328468/235618047-4f351c0d-a73e-4239
 ## How to run the app
 - **Clone the project.**
 ```shell
-git clone https://github.com/ruslan-volkhov-ew/quizApp-FlutterFlow.git
+git clone https://github.com/automatix-scripts/quizApp-FlutterFlow.git
 ```
 
 - **Open the project.**
